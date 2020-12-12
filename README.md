@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 👨‍💻 All of my projects are available at [github.com/vladdossik](github.com/vladdossik)
+- 👨‍💻 All of my projects are available at [github](https://github.com/vladdossik)
 
 - 📫 How to reach me **vladdosik7540@gmail.com**
 

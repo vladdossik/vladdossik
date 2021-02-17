@@ -19,7 +19,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+![android (1)](https://user-images.githubusercontent.com/45006912/108172447-ed056780-710d-11eb-853a-37cd4c0f0dfe.png)
+![java](https://user-images.githubusercontent.com/45006912/108172555-09a19f80-710e-11eb-9794-c3c80429a87b.png)
+![spring](https://user-images.githubusercontent.com/45006912/108172808-584f3980-710e-11eb-9c9c-aaa5d359c9e6.png)
+![git](https://user-images.githubusercontent.com/45006912/108172882-7026bd80-710e-11eb-9408-e9e5ae3cfa27.png)
+![mysql](https://user-images.githubusercontent.com/45006912/108172938-89c80500-710e-11eb-956c-153a0cbb620e.png)
+![sql](https://user-images.githubusercontent.com/45006912/108173121-cac01980-710e-11eb-9a1a-aa294902f8df.png)
+![travis](https://user-images.githubusercontent.com/45006912/108173062-afeda500-710e-11eb-8ee4-ac723cb4f3c4.png)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladdossik&show_icons=true&locale=en&layout=compact" alt="vladdossik" /></p>
 

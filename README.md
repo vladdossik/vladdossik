@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/vladdossik)
 
-- 📫 How to reach me **vladdosiik7540@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/13785504" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13785504" height="30" width="40" /></a>

@@ -16,5 +16,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,spring,git,docker,kubernetes,jenkins,bots,idea)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,spring,hibernate,git,docker,kubernetes,jenkins,kafka,rabbitmq,bots,maven,idea)](https://skills.thijs.gg)
 

@@ -16,8 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,spring,hibernate,git,docker,kubernetes,jenkins,kafka,rabbitmq,bots,maven,idea)](https://skills.thijs.gg)
-
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,git,docker,kubernetes,jenkins,kafka,rabbitmq,bots,maven,idea&theme=light)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladdossik&show_icons=true&locale=en&layout=compact" alt="vladdossik" /></p>
 
